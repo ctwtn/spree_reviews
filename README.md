@@ -56,6 +56,8 @@ administrator to update.
 
 Ratings table holds current fractional value - avoids frequent recalc...
 
+Note to Self: Implement in future build of [FindMyNode](https://findmynode.com/) for [HUBBA Thailand](hubbathailand.com)
+
 ---
 
 ## Discussion
